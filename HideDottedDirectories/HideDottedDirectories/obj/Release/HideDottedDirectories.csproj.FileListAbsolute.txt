@@ -1,0 +1,10 @@
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Release\HideDottedDirectories.exe.config
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Release\HideDottedDirectories.exe
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Release\HideDottedDirectories.pdb
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.HideDottedDirectories.resources
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.ProjectInstaller.resources
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.exe
+C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\obj\Release\HideDottedDirectories.pdb

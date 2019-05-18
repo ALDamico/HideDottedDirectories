@@ -1,0 +1,131 @@
+﻿
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Servizio specificato già esistente
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Servizio specificato già esistente
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.InvalidOperationException: Impossibile aprire Gestione controllo servizi nel computer '.'. Probabilmente l'operazione richiede altri privilegi.
+L'eccezione interna System.ComponentModel.Win32Exception è stata generata con il seguente messaggio di errore: Accesso negato.
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Servizio specificato già esistente
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Il servizio specificato è stato segnato per l'eliminazione
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Nome account non valido o non esistente o password non valida per il nome account specificato
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.exe.
+Il file si trova in C:\Users\Luciano\source\repos\HideDottedDirectories\HideDottedDirectories\bin\Debug\HideDottedDirectories.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
